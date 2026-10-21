@@ -94,10 +94,9 @@ The dashboard connects directly to a relational database containing bookings, cu
 
 ## 👤 Author
 
-**[Your Name]**
-- LinkedIn: [your-linkedin-link]
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: [your-email]
+**[Ahmed Saker]**
+- GitHub: [ahmed-saker](https://github.com/ahmed-saker)
+- Email: [sakerahmed367@gmail.com]
 
 ---
 
