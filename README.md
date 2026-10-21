@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard connected to a database, built to analyze hotel booking production in the travel & hospitality industry. It provides a complete view of room nights, bookings, sales, and profit, with year-over-year comparisons across customers, hotels, hotel chains, product groups, departments, and destinations.
 
-![Dashboard Preview](images/overview.png)
+![Dashboard Preview][(images/overview.png)](https://github.com/ahmed-saker/Production-Analysis-Dashboard/blob/main/Production%20Analysis%20Dashboard.pdf)
 
 ---
 
